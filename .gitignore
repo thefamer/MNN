@@ -381,3 +381,5 @@ apps/mnncli/model_market_json_data.inc
 _deps
 #aicoding
 .cursor
+/.vs/MNN.slnx
+/.vs/MNN/CopilotIndices
